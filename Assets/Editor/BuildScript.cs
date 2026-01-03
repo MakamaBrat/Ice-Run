@@ -18,8 +18,8 @@ public class BuildScript
         // ========================
         // Пути к файлам сборки
         // ========================
-        string aabPath = "IceRun.aab";
-        string apkPath = "IceRun.apk";
+        string aabPath = "Ice-Run.aab";
+        string apkPath = "Ice-Run.apk";
 
         // ========================
         // Настройка Android Signing через переменные окружения
